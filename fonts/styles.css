@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ultra-regular';
+    src: url('fonts/ultra-regular.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'oswald-regular';
+    src: url('fonts/oswald-regular') format('ttf');
+}
+@font-face {
+    font-family: 'dmsans-regular';
+    src: url('fonts/dmsans-regular') format('ttf');
+}
