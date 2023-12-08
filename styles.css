@@ -52,7 +52,7 @@ h1 {
     margin-bottom: 30px;
 }
 .image-container {
-     display: flex;
+      display: flex;
       flex-wrap: wrap;
       justify-content: space-between;
       max-width: 1440px; 
@@ -65,8 +65,12 @@ h1 {
     margin-right: 30;
   }
 button {
-    border-radius: 2px;
+    background-color: #F5D3AB;
+    color:#171B1B;
     border: 1px solid rgba(23, 27, 27, 0.24);
+    border-radius: 2px;
     width: 170px;
     height: 48px;
+    text-align: center;
+    font-family: 'oswald';
 }
